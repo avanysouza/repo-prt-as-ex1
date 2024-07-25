@@ -15,4 +15,4 @@ Realizar a configuração de uma pipeline para conectar a base de dados do Postg
 7. Configurar o workflow no GitHub Actions com os parametros para conexão ao postgress.
 8. Executar o workflow e visualizar os dados da tabela gerada na base de dados.
 
-![image](https://github.com/user-attachments/assets/f296f6d0-4645-4c85-bdd1-03556af679db)
+![image](https://github.com/user-attachments/assets/95d8c5de-660a-4f1b-87f4-e12692a35715)
