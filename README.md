@@ -11,7 +11,7 @@ Realizar a configuração de uma pipeline para conectar a base de dados do Postg
 3. Salvar o arquivo SQL gerado no Postgres e salvar na pasta do repositório local.
 4. Criar uma nova branch (git checkout -b xxxx) e realizar o git add ., git commit e git push para atualizar o repositório no GitHub.
 5. Realizar o pull request e o merge das branchs no GitHub
-6. Criar as variáveis da password (secrets) e de ambiente no nas configurações do repositório no GitHub - Environments
+6. Criar as variáveis da password (secrets) e de ambiente (vars) nas configurações do repositório no GitHub - Environments
 7. Configurar o workflow no GitHub Actions com os parametros para conexão ao postgress.
 8. Executar o workflow e visualizar os dados da tabela gerada na base de dados.
 
